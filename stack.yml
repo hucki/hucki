@@ -9,15 +9,15 @@
 - name: React
   logo: react
   url: https://reactjs.org
-  color: 52C0F2
+  color: 61DAFB
   projects:
     - https://github.com/hucki/grouptripper
     - url: https://github.com/hucki/necto
       wip: true
 - name: React Query
-  logo: react-query
+  logo: react
   url: https://github.com/tannerlinsley/react-query
-  color: 52C0F2
+  color: 0769AD
   projects:
     - https://github.com/hucki/grouptripper
 - name: TypeScript
@@ -29,13 +29,13 @@
 - name: Node.js
   logo: nodejs
   url: https://nodejs.org/
-  color: 52C0F2
+  color: 339933
   projects:
     - https://github.com/hucki/grouptripper
     - url: https://github.com/hucki/necto
       wip: true
 - name: Express.js
-  logo: express
+  logo: nodejs
   url: https://expressjs.com
   color: 52C0F2
   projects:
@@ -45,6 +45,6 @@
 - name: MongoDB
   logo: mongodb
   url: https://www.mongodb.com
-  color: 52C0F2
+  color: 47A248
   projects:
     - https://github.com/hucki/grouptripper
