@@ -2,18 +2,22 @@
 
 (_aka `hucki`_)
 
-I'm a Full Stack Software Engineer with main focus on the JavaScript Environment. I have been working with React, Express, MongoDB and Node.js
+I'm a Full Stack Software Engineer with main focus on the JavaScript Environment.
+My tech stack includes (but is not limited to) React, Redux, React Query, Express, Koa, MongoDB, PostgreSQL, Node.js, TypeScript, GraphQL, Angular.
 
-I’m currently working on two projects of mine:
+Currently i am actively working on following projects:
 
 - [grouptripper](https://github.com/hucki/grouptripper) - a collaborative travel planning app
 - [necto](https://github.com/hucki/necto/) - an app for scheduling appointments in a health care environment
 
+### what i am also known for:
 🌱 Enjoying nature and loving to travel and meet with friends and family. Prefer to do this with a minimal environmental impact.
 
 🥁 Also lover and active player of scottish folk music.
 
 🎨 If time allows i am also drawing, taking photos and brewing beer.
+
+### tech stack of my projects
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
