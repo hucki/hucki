@@ -1,0 +1,50 @@
+- name: JavaScript
+  logo: javascript
+  url: https://github.com/hucki?tab=repositories&q=&type=&language=javascript
+  color: F1E05A
+  projects:
+     - https://github.com/hucki/grouptripper
+    - url: https://github.com/hucki/necto
+      wip: true
+- name: React
+  logo: react
+  url: https://reactjs.org
+  color: 52C0F2
+  projects:
+    - https://github.com/hucki/grouptripper
+    - url: https://github.com/hucki/necto
+      wip: true
+- name: React Query
+  logo: react-query
+  url: https://github.com/tannerlinsley/react-query
+  color: 52C0F2
+  projects:
+    - https://github.com/hucki/grouptripper
+- name: TypeScript
+  logo: typescript
+  url: https://www.typescriptlang.org
+  color: 007ACC
+  projects:
+    - https://github.com/hucki/grouptripper
+- name: Node.js
+  logo: nodejs
+  url: https://nodejs.org/
+  color: 52C0F2
+  projects:
+    - https://github.com/hucki/grouptripper
+    - url: https://github.com/hucki/necto
+      wip: true
+- name: Express.js
+  logo: express
+  url: https://expressjs.com
+  color: 52C0F2
+  projects:
+    - https://github.com/hucki/grouptripper
+    - url: https://github.com/hucki/necto
+      wip: true
+- name: MongoDB
+  logo: mongodb
+  url: https://www.mongodb.com
+  color: 52C0F2
+  projects:
+    - https://github.com/hucki/grouptripper
