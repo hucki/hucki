@@ -3,7 +3,7 @@
   url: https://github.com/hucki?tab=repositories&q=&type=&language=javascript
   color: F1E05A
   projects:
-     - https://github.com/hucki/grouptripper
+    - https://github.com/hucki/grouptripper
     - url: https://github.com/hucki/necto
       wip: true
 - name: React
