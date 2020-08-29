@@ -14,7 +14,7 @@
     - https://github.com/hucki/grouptripper
     - url: https://github.com/hucki/necto
       wip: true
-- name: React Query
+- name: React-Query
   logo: react
   url: https://github.com/tannerlinsley/react-query
   color: 0769AD
