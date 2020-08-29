@@ -15,9 +15,8 @@ I’m currently working on two projects of mine:
 
 🎨 If time allows i am also drawing, taking photos and brewing beer.
 
-### my current stats
-
 <img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hucki&show_icons=true&hide_border=true" />
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
