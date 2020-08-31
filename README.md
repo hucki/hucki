@@ -14,8 +14,8 @@ Currently i am actively working on following projects:
 
 🌱 Enjoying nature and loving to travel and meet with friends and family. Prefer to do this with a minimal environmental impact.
 
-💾 Programming my own smart home with NodeRed.
+💾 Programming my own smart home with NodeRed, combining different standards with MQTT and RESTful APIs.
 
 🥁 Also lover and active player of scottish folk music.
 
-🎨 If time allows i am also drawing, taking photos and brewing beer.
+🧘‍♂️ I meditate on a daily basis and if time allows I draw, take photos and occasionaly brew beer.
